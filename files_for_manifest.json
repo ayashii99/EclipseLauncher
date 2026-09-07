@@ -1,16 +1,4 @@
 ﻿{
-    "version":  "2026.09.07.2314",
-    "server_ip":  "46.174.50.175",
-    "server_port":  "20600",
-    "monitoring_url":  "https://eclipseshop.gamestores.app/api/v1/widgets.monitoring",
-    "manifest_url":  "https://raw.githubusercontent.com/ayashii99/EclipseLauncher/main/manifest.json",
-    "discord_link":  "https://discord.gg/PsXW8Uucvx",
-    "telegram_link":  "https://t.me/eclipserust59",
-    "vk_link":  "https://vk.com/eclipserust59",
-    "shop_link":  "https://eclipseshop.gamestores.app/",
-    "game_executable":  "Rust.exe",
-    "launch_arguments":  "-connect 46.174.50.175:20600",
-    "minimize_after_launch":  true,
     "files":  [
                   {
                       "path":  "RustClient_Data/Managed/Accessibility.dll",
