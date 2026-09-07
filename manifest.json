@@ -1,0 +1,12 @@
+{
+  "server_ip": "46.174.50.175",
+  "server_port": "20600",
+  "monitoring_url": "https://eclipseshop.gamestores.app/api/v1/widgets.monitoring",
+  "manifest_url": "https://raw.githubusercontent.com/ТВОЙ_НИК/ТВОЙ_РЕПОЗИТОРИЙ/main/manifest.json",
+  "discord_link": "https://discord.gg/PsXW8Uucvx",
+  "telegram_link": "https://t.me/eclipserust59",
+  "vk_link": "https://vk.com/eclipserust59",
+  "shop_link": "https://eclipseshop.gamestores.app/",
+  "game_executable": "Rust.exe",
+  "custom_launch_args": ""
+}
