@@ -1,419 +1,422 @@
 {
-    "version": "2026.09.07.2336",
-    "server_ip": "46.174.50.175",
-    "server_port": "20600",
-    "monitoring_url": "https://eclipseshop.gamestores.app/api/v1/widgets.monitoring",
-    "manifest_url": "https://raw.githubusercontent.com/ayashii99/EclipseLauncher/refs/heads/main/manifest.json",
-    "discord_link": "https://discord.gg/PsXW8Uucvx",
-    "telegram_link": "https://t.me/eclipserust59",
-    "vk_link": "https://vk.com/eclipserust59",
-    "shop_link": "https://eclipseshop.gamestores.app/",
-    "game_executable": "Rust.exe",
-    "launch_arguments": "-connect 46.174.50.175:20600",
-    "custom_launch_args": "",
-    "minimize_after_launch": true,
-    "files": [
-        {
-            "path": "RustClient_Data/Managed/Accessibility.dll",
-            "md5": "49826010721559745c96790df65bc3e7",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/Accessibility.dll",
-            "size": 17120
-        },
-        {
-            "path": "RustClient_Data/Managed/Assembly-CSharp-firstpass.dll",
-            "md5": "7d525ae3cb55139fcacc34cf3b392a1e",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/Assembly-CSharp-firstpass.dll",
-            "size": 75776
-        },
-        {
-            "path": "RustClient_Data/Managed/Assembly-CSharp.dll",
-            "md5": "a222912a25aaebadd0673820419715a5",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/Assembly-CSharp.dll",
-            "size": 1363968
-        },
-        {
-            "path": "RustClient_Data/Managed/Behave.Unity.Runtime.dll",
-            "md5": "c3caf6738335a2f881569320c2121629",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/Behave.Unity.Runtime.dll",
-            "size": 192736
-        },
-        {
-            "path": "RustClient_Data/Managed/ConvexHull.dll",
-            "md5": "a86659ff0dc6344fa934445a02f14b1e",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/ConvexHull.dll",
-            "size": 35552
-        },
-        {
-            "path": "RustClient_Data/Managed/DestMath.dll",
-            "md5": "94185ba5bf670c539c26a993606854f3",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/DestMath.dll",
-            "size": 205536
-        },
-        {
-            "path": "RustClient_Data/Managed/EasyAntiCheat.Client.dll",
-            "md5": "719f21522d3cd47c90df72628a12adcd",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/EasyAntiCheat.Client.dll",
-            "size": 33312
-        },
-        {
-            "path": "RustClient_Data/Managed/EasyAntiCheat.Server.dll",
-            "md5": "e52a84dcf36e0e928c49a34bfb304ba1",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/EasyAntiCheat.Server.dll",
-            "size": 31264
-        },
-        {
-            "path": "RustClient_Data/Managed/I18N.CJK.dll",
-            "md5": "9699cc3c05e0aef059cea88c376d555d",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/I18N.CJK.dll",
-            "size": 686816
-        },
-        {
-            "path": "RustClient_Data/Managed/I18N.dll",
-            "md5": "62454345e88134d865eeb6725d9c9408",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/I18N.dll",
-            "size": 38112
-        },
-        {
-            "path": "RustClient_Data/Managed/I18N.MidEast.dll",
-            "md5": "5c6a944c57693a10969aa55788704894",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/I18N.MidEast.dll",
-            "size": 35552
-        },
-        {
-            "path": "RustClient_Data/Managed/I18N.Other.dll",
-            "md5": "5613ce665f916aeb2c24e0c3f2838f84",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/I18N.Other.dll",
-            "size": 38624
-        },
-        {
-            "path": "RustClient_Data/Managed/I18N.Rare.dll",
-            "md5": "4fc3adac7630ae466cc03fc254840980",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/I18N.Rare.dll",
-            "size": 177376
-        },
-        {
-            "path": "RustClient_Data/Managed/I18N.West.dll",
-            "md5": "f4d18233fff8d107eacdf1c18beb1c19",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/I18N.West.dll",
-            "size": 71904
-        },
-        {
-            "path": "RustClient_Data/Managed/Ionic.Zip.Reduced.dll",
-            "md5": "69aff2898f56fcbea667c34f9b7f6275",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/Ionic.Zip.Reduced.dll",
-            "size": 259808
-        },
-        {
-            "path": "RustClient_Data/Managed/LZ4n.dll",
-            "md5": "a7cdd846f73bb6927e11bc0883cc0f0e",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/LZ4n.dll",
-            "size": 31456
-        },
-        {
-            "path": "RustClient_Data/Managed/Mono.Data.Tds.dll",
-            "md5": "7247bf4d9bbde8df7953fb349289cb9f",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/Mono.Data.Tds.dll",
-            "size": 102624
-        },
-        {
-            "path": "RustClient_Data/Managed/Mono.Posix.dll",
-            "md5": "c0fe413180fc6f07cd9bb4ea44b557c0",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/Mono.Posix.dll",
-            "size": 190688
-        },
-        {
-            "path": "RustClient_Data/Managed/Mono.Security.dll",
-            "md5": "d0d09314bd7aeb9a6906531a41e73859",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/Mono.Security.dll",
-            "size": 300768
-        },
-        {
-            "path": "RustClient_Data/Managed/Mono.WebBrowser.dll",
-            "md5": "1e01db30f2d2f1b76a72c3fddab1fb5e",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/Mono.WebBrowser.dll",
-            "size": 178400
-        },
-        {
-            "path": "RustClient_Data/Managed/mscorlib.dll",
-            "md5": "45e7d0cea7c7e057ce80b5c9da7cc337",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/mscorlib.dll",
-            "size": 2596576
-        },
-        {
-            "path": "RustClient_Data/Managed/Newtonsoft.Json.dll",
-            "md5": "930ec0618083951a8e30aa95da7b9af8",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/Newtonsoft.Json.dll",
-            "size": 408288
-        },
-        {
-            "path": "RustClient_Data/Managed/protobuf-net.dll",
-            "md5": "414a47500b4681b57a7729708a3d5994",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/protobuf-net.dll",
-            "size": 81632
-        },
-        {
-            "path": "RustClient_Data/Managed/RustBuild.dll",
-            "md5": "c92f97f6cf5ba07079170cf19db6a495",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/RustBuild.dll",
-            "size": 49888
-        },
-        {
-            "path": "RustClient_Data/Managed/System.Configuration.dll",
-            "md5": "3e75e848f8707c7aed20102f3614053b",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/System.Configuration.dll",
-            "size": 131296
-        },
-        {
-            "path": "RustClient_Data/Managed/System.Configuration.Install.dll",
-            "md5": "e1b61fbabfc2aac2ba188c23b33ff35f",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/System.Configuration.Install.dll",
-            "size": 28896
-        },
-        {
-            "path": "RustClient_Data/Managed/System.Core.dll",
-            "md5": "6589c7d8bf0c800c7534ecae8ef5ac80",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/System.Core.dll",
-            "size": 305376
-        },
-        {
-            "path": "RustClient_Data/Managed/System.Data.dll",
-            "md5": "02f2885a29b85b9b99d56c6c42c8f0d3",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/System.Data.dll",
-            "size": 862432
-        },
-        {
-            "path": "RustClient_Data/Managed/System.dll",
-            "md5": "a216e5443b05fc4d20f3a75bedd3dc2b",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/System.dll",
-            "size": 1685216
-        },
-        {
-            "path": "RustClient_Data/Managed/System.Drawing.dll",
-            "md5": "4ea1445b6d3a1789121bca96e30f17f9",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/System.Drawing.dll",
-            "size": 454880
-        },
-        {
-            "path": "RustClient_Data/Managed/System.EnterpriseServices.dll",
-            "md5": "156509f7b3d8d00deb4d0b5f4d3afad6",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/System.EnterpriseServices.dll",
-            "size": 52960
-        },
-        {
-            "path": "RustClient_Data/Managed/System.Runtime.Serialization.dll",
-            "md5": "7e3381dcdeb8010ead06be5e56ea6210",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/System.Runtime.Serialization.dll",
-            "size": 162016
-        },
-        {
-            "path": "RustClient_Data/Managed/System.Security.dll",
-            "md5": "7fc66df9f73f72321b37dcd945bc3578",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/System.Security.dll",
-            "size": 141536
-        },
-        {
-            "path": "RustClient_Data/Managed/System.ServiceProcess.dll",
-            "md5": "e0b79dc79de312b39e1f07206624f316",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/System.ServiceProcess.dll",
-            "size": 50400
-        },
-        {
-            "path": "RustClient_Data/Managed/System.Transactions.dll",
-            "md5": "1040beff8527a25cf183363918f77ee5",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/System.Transactions.dll",
-            "size": 34016
-        },
-        {
-            "path": "RustClient_Data/Managed/System.Windows.Forms.dll",
-            "md5": "763396eea2df02e05643c04c62d2ecd7",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/System.Windows.Forms.dll",
-            "size": 3059936
-        },
-        {
-            "path": "RustClient_Data/Managed/System.Xml.dll",
-            "md5": "62ea95ee011fcf95c6646a72169ce7a2",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/System.Xml.dll",
-            "size": 1276640
-        },
-        {
-            "path": "RustClient_Data/Managed/System.Xml.Linq.dll",
-            "md5": "19e48f24bc668da7a4319ea1a676097d",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/System.Xml.Linq.dll",
-            "size": 112864
-        },
-        {
-            "path": "RustClient_Data/Managed/UnityEngine.Cloud.Analytics.dll",
-            "md5": "542cf0817b6482d62898d90f436f3b23",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/UnityEngine.Cloud.Analytics.dll",
-            "size": 86240
-        },
-        {
-            "path": "RustClient_Data/Managed/UnityEngine.Cloud.Analytics.Util.dll",
-            "md5": "d89cb67e6e2e25f335002f8046ad0778",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/UnityEngine.Cloud.Analytics.Util.dll",
-            "size": 10464
-        },
-        {
-            "path": "RustClient_Data/Managed/UnityEngine.dll",
-            "md5": "41d74391c8780e1d319c26e4bff3dd4d",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/UnityEngine.dll",
-            "size": 691936
-        },
-        {
-            "path": "RustClient_Data/Managed/UnityEngine.UI.dll",
-            "md5": "ce4e12a66e5cc901a09605ed1aa82dc4",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/UnityEngine.UI.dll",
-            "size": 180960
-        },
-        {
-            "path": "RustClient_Data/level0",
-            "md5": "b2472f481c1fe38b574f0ac9223fdaf3",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/level0",
-            "size": 4688
-        },
-        {
-            "path": "RustClient_Data/level1",
-            "md5": "08dfd0df91cbd5544fc34c4f8b56fd30",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/level1",
-            "size": 568728
-        },
-        {
-            "path": "RustClient_Data/level2",
-            "md5": "11102cabff23443286814cbb17264234",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/level2",
-            "size": 564944
-        },
-        {
-            "path": "RustClient_Data/level3",
-            "md5": "e642d56c847ff08b7f9562819a220374",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/level3",
-            "size": 60676
-        },
-        {
-            "path": "RustClient_Data/level4",
-            "md5": "880cdecba6693fda98da9abd0ae075c4",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/level4",
-            "size": 19844
-        },
-        {
-            "path": "RustClient_Data/level5",
-            "md5": "47e717b8e0b40147c7fbf1dfd61bd1e8",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/level5",
-            "size": 142264
-        },
-        {
-            "path": "RustClient_Data/level6",
-            "md5": "5d99b20f6e8a4fc4ff53406dc6448a63",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/level6",
-            "size": 151468
-        },
-        {
-            "path": "RustClient_Data/level7",
-            "md5": "61ea70d9bc3008f3f1baf5ad0888bc1d",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/level7",
-            "size": 275017976
-        },
-        {
-            "path": "RustClient_Data/mainData",
-            "md5": "c7fd7a5fe6ae56ac35fe35dbb10e2648",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/mainData",
-            "size": 4361436
-        },
-        {
-            "path": "RustClient_Data/resources.assets",
-            "md5": "5deea7bca0df9f218c99af427e421c48",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/resources.assets",
-            "size": 294797736
-        },
-        {
-            "path": "RustClient_Data/resources.resource",
-            "md5": "7eff8791c51ab69b8982cef7472801ca",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/resources.resource",
-            "size": 185696
-        },
-        {
-            "path": "RustClient_Data/sharedassets0.assets",
-            "md5": "63977744a853f398c47a836d7a51c2c4",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/sharedassets0.assets",
-            "size": 140579872
-        },
-        {
-            "path": "RustClient_Data/sharedassets1.assets",
-            "md5": "da93e78a14efa35583eee06fef0ed347",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/sharedassets1.assets",
-            "size": 4120
-        },
-        {
-            "path": "RustClient_Data/sharedassets2.assets",
-            "md5": "de04b98ff69515198764c1ed0a8c00a2",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/sharedassets2.assets",
-            "size": 55295304
-        },
-        {
-            "path": "RustClient_Data/sharedassets2.resource",
-            "md5": "df5c396dc3887fa8fd6a558727a2443f",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/sharedassets2.resource",
-            "size": 39189536
-        },
-        {
-            "path": "RustClient_Data/sharedassets3.assets",
-            "md5": "8e6487ef4933c80c9241f5a97fc713cf",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/sharedassets3.assets",
-            "size": 63607268
-        },
-        {
-            "path": "RustClient_Data/sharedassets4.assets",
-            "md5": "7c34de977363288e0207d0fedcef4898",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/sharedassets4.assets",
-            "size": 9240364
-        },
-        {
-            "path": "RustClient_Data/sharedassets4.resource",
-            "md5": "1da92bc150d598a805e888339dd07164",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/sharedassets4.resource",
-            "size": 3312800
-        },
-        {
-            "path": "RustClient_Data/sharedassets5.assets",
-            "md5": "91f25b52179bd36e855fda8bbf487313",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/sharedassets5.assets",
-            "size": 355092
-        },
-        {
-            "path": "RustClient_Data/sharedassets5.resource",
-            "md5": "841d592f8bb0e5a718615d1bae9a69a3",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/sharedassets5.resource",
-            "size": 4014880
-        },
-        {
-            "path": "RustClient_Data/sharedassets6.assets",
-            "md5": "fd6d3ac099a78c3216e3f599abd8393c",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/sharedassets6.assets",
-            "size": 67332
-        },
-        {
-            "path": "RustClient_Data/sharedassets6.resource",
-            "md5": "09a95253892d3dc3c63b01d688e27afe",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/sharedassets6.resource",
-            "size": 10427488
-        },
-        {
-            "path": "RustClient_Data/sharedassets7.assets",
-            "md5": "0627b9511a19edce274d569e5590d6f7",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/sharedassets7.assets",
-            "size": 484767284
-        },
-        {
-            "path": "RustClient_Data/sharedassets8.assets",
-            "md5": "7a59e7a4f9619d2249da353aa9ab2267",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/sharedassets8.assets",
-            "size": 307894292
-        },
-        {
-            "path": "RustClient_Data/sharedassets8.resource",
-            "md5": "a081d539a239cb9199e2eee27a91b6bf",
-            "url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/sharedassets8.resource",
-            "size": 891648
-        }
-    ]
+    "version":  "2026.09.07.2336",
+    "server_ip":  "46.174.50.175",
+    "server_port":  "20600",
+    "monitoring_url":  "https://eclipseshop.gamestores.app/api/v1/widgets.monitoring",
+    "manifest_url":  "https://raw.githubusercontent.com/ayashii99/EclipseLauncher/refs/heads/main/manifest.json",
+    "discord_link":  "https://discord.gg/PsXW8Uucvx",
+    "telegram_link":  "https://t.me/eclipserust59",
+    "vk_link":  "https://vk.com/eclipserust59",
+    "shop_link":  "https://eclipseshop.gamestores.app/",
+    "game_executable":  "Rust.exe",
+    "launch_arguments":  "-connect 46.174.50.175:20600",
+    "custom_launch_args":  "",
+    "minimize_after_launch":  true,
+    "launcher_version": "1.0.0",
+    "launcher_url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/EclipseRustLauncher.exe",
+    "launcher_md5": "6153c615afffd6c67a9d2799a00f1725",
+    "files":  [
+                  {
+                      "path":  "RustClient_Data/Managed/Accessibility.dll",
+                      "md5":  "49826010721559745c96790df65bc3e7",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/Accessibility.dll",
+                      "size":  17120
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/Assembly-CSharp-firstpass.dll",
+                      "md5":  "7d525ae3cb55139fcacc34cf3b392a1e",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/Assembly-CSharp-firstpass.dll",
+                      "size":  75776
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/Assembly-CSharp.dll",
+                      "md5":  "a222912a25aaebadd0673820419715a5",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/Assembly-CSharp.dll",
+                      "size":  1363968
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/Behave.Unity.Runtime.dll",
+                      "md5":  "c3caf6738335a2f881569320c2121629",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/Behave.Unity.Runtime.dll",
+                      "size":  192736
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/ConvexHull.dll",
+                      "md5":  "a86659ff0dc6344fa934445a02f14b1e",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/ConvexHull.dll",
+                      "size":  35552
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/DestMath.dll",
+                      "md5":  "94185ba5bf670c539c26a993606854f3",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/DestMath.dll",
+                      "size":  205536
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/EasyAntiCheat.Client.dll",
+                      "md5":  "719f21522d3cd47c90df72628a12adcd",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/EasyAntiCheat.Client.dll",
+                      "size":  33312
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/EasyAntiCheat.Server.dll",
+                      "md5":  "e52a84dcf36e0e928c49a34bfb304ba1",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/EasyAntiCheat.Server.dll",
+                      "size":  31264
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/I18N.CJK.dll",
+                      "md5":  "9699cc3c05e0aef059cea88c376d555d",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/I18N.CJK.dll",
+                      "size":  686816
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/I18N.dll",
+                      "md5":  "62454345e88134d865eeb6725d9c9408",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/I18N.dll",
+                      "size":  38112
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/I18N.MidEast.dll",
+                      "md5":  "5c6a944c57693a10969aa55788704894",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/I18N.MidEast.dll",
+                      "size":  35552
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/I18N.Other.dll",
+                      "md5":  "5613ce665f916aeb2c24e0c3f2838f84",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/I18N.Other.dll",
+                      "size":  38624
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/I18N.Rare.dll",
+                      "md5":  "4fc3adac7630ae466cc03fc254840980",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/I18N.Rare.dll",
+                      "size":  177376
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/I18N.West.dll",
+                      "md5":  "f4d18233fff8d107eacdf1c18beb1c19",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/I18N.West.dll",
+                      "size":  71904
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/Ionic.Zip.Reduced.dll",
+                      "md5":  "69aff2898f56fcbea667c34f9b7f6275",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/Ionic.Zip.Reduced.dll",
+                      "size":  259808
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/LZ4n.dll",
+                      "md5":  "a7cdd846f73bb6927e11bc0883cc0f0e",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/LZ4n.dll",
+                      "size":  31456
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/Mono.Data.Tds.dll",
+                      "md5":  "7247bf4d9bbde8df7953fb349289cb9f",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/Mono.Data.Tds.dll",
+                      "size":  102624
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/Mono.Posix.dll",
+                      "md5":  "c0fe413180fc6f07cd9bb4ea44b557c0",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/Mono.Posix.dll",
+                      "size":  190688
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/Mono.Security.dll",
+                      "md5":  "d0d09314bd7aeb9a6906531a41e73859",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/Mono.Security.dll",
+                      "size":  300768
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/Mono.WebBrowser.dll",
+                      "md5":  "1e01db30f2d2f1b76a72c3fddab1fb5e",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/Mono.WebBrowser.dll",
+                      "size":  178400
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/mscorlib.dll",
+                      "md5":  "45e7d0cea7c7e057ce80b5c9da7cc337",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/mscorlib.dll",
+                      "size":  2596576
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/Newtonsoft.Json.dll",
+                      "md5":  "930ec0618083951a8e30aa95da7b9af8",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/Newtonsoft.Json.dll",
+                      "size":  408288
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/protobuf-net.dll",
+                      "md5":  "414a47500b4681b57a7729708a3d5994",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/protobuf-net.dll",
+                      "size":  81632
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/RustBuild.dll",
+                      "md5":  "c92f97f6cf5ba07079170cf19db6a495",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/RustBuild.dll",
+                      "size":  49888
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/System.Configuration.dll",
+                      "md5":  "3e75e848f8707c7aed20102f3614053b",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/System.Configuration.dll",
+                      "size":  131296
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/System.Configuration.Install.dll",
+                      "md5":  "e1b61fbabfc2aac2ba188c23b33ff35f",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/System.Configuration.Install.dll",
+                      "size":  28896
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/System.Core.dll",
+                      "md5":  "6589c7d8bf0c800c7534ecae8ef5ac80",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/System.Core.dll",
+                      "size":  305376
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/System.Data.dll",
+                      "md5":  "02f2885a29b85b9b99d56c6c42c8f0d3",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/System.Data.dll",
+                      "size":  862432
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/System.dll",
+                      "md5":  "a216e5443b05fc4d20f3a75bedd3dc2b",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/System.dll",
+                      "size":  1685216
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/System.Drawing.dll",
+                      "md5":  "4ea1445b6d3a1789121bca96e30f17f9",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/System.Drawing.dll",
+                      "size":  454880
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/System.EnterpriseServices.dll",
+                      "md5":  "156509f7b3d8d00deb4d0b5f4d3afad6",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/System.EnterpriseServices.dll",
+                      "size":  52960
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/System.Runtime.Serialization.dll",
+                      "md5":  "7e3381dcdeb8010ead06be5e56ea6210",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/System.Runtime.Serialization.dll",
+                      "size":  162016
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/System.Security.dll",
+                      "md5":  "7fc66df9f73f72321b37dcd945bc3578",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/System.Security.dll",
+                      "size":  141536
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/System.ServiceProcess.dll",
+                      "md5":  "e0b79dc79de312b39e1f07206624f316",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/System.ServiceProcess.dll",
+                      "size":  50400
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/System.Transactions.dll",
+                      "md5":  "1040beff8527a25cf183363918f77ee5",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/System.Transactions.dll",
+                      "size":  34016
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/System.Windows.Forms.dll",
+                      "md5":  "763396eea2df02e05643c04c62d2ecd7",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/System.Windows.Forms.dll",
+                      "size":  3059936
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/System.Xml.dll",
+                      "md5":  "62ea95ee011fcf95c6646a72169ce7a2",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/System.Xml.dll",
+                      "size":  1276640
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/System.Xml.Linq.dll",
+                      "md5":  "19e48f24bc668da7a4319ea1a676097d",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/System.Xml.Linq.dll",
+                      "size":  112864
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/UnityEngine.Cloud.Analytics.dll",
+                      "md5":  "542cf0817b6482d62898d90f436f3b23",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/UnityEngine.Cloud.Analytics.dll",
+                      "size":  86240
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/UnityEngine.Cloud.Analytics.Util.dll",
+                      "md5":  "d89cb67e6e2e25f335002f8046ad0778",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/UnityEngine.Cloud.Analytics.Util.dll",
+                      "size":  10464
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/UnityEngine.dll",
+                      "md5":  "41d74391c8780e1d319c26e4bff3dd4d",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/UnityEngine.dll",
+                      "size":  691936
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/UnityEngine.UI.dll",
+                      "md5":  "ce4e12a66e5cc901a09605ed1aa82dc4",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/UnityEngine.UI.dll",
+                      "size":  180960
+                  },
+                  {
+                      "path":  "RustClient_Data/level0",
+                      "md5":  "b2472f481c1fe38b574f0ac9223fdaf3",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/level0",
+                      "size":  4688
+                  },
+                  {
+                      "path":  "RustClient_Data/level1",
+                      "md5":  "08dfd0df91cbd5544fc34c4f8b56fd30",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/level1",
+                      "size":  568728
+                  },
+                  {
+                      "path":  "RustClient_Data/level2",
+                      "md5":  "11102cabff23443286814cbb17264234",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/level2",
+                      "size":  564944
+                  },
+                  {
+                      "path":  "RustClient_Data/level3",
+                      "md5":  "e642d56c847ff08b7f9562819a220374",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/level3",
+                      "size":  60676
+                  },
+                  {
+                      "path":  "RustClient_Data/level4",
+                      "md5":  "880cdecba6693fda98da9abd0ae075c4",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/level4",
+                      "size":  19844
+                  },
+                  {
+                      "path":  "RustClient_Data/level5",
+                      "md5":  "47e717b8e0b40147c7fbf1dfd61bd1e8",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/level5",
+                      "size":  142264
+                  },
+                  {
+                      "path":  "RustClient_Data/level6",
+                      "md5":  "5d99b20f6e8a4fc4ff53406dc6448a63",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/level6",
+                      "size":  151468
+                  },
+                  {
+                      "path":  "RustClient_Data/level7",
+                      "md5":  "61ea70d9bc3008f3f1baf5ad0888bc1d",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/level7",
+                      "size":  275017976
+                  },
+                  {
+                      "path":  "RustClient_Data/mainData",
+                      "md5":  "c7fd7a5fe6ae56ac35fe35dbb10e2648",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/mainData",
+                      "size":  4361436
+                  },
+                  {
+                      "path":  "RustClient_Data/resources.assets",
+                      "md5":  "5deea7bca0df9f218c99af427e421c48",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/resources.assets",
+                      "size":  294797736
+                  },
+                  {
+                      "path":  "RustClient_Data/resources.resource",
+                      "md5":  "7eff8791c51ab69b8982cef7472801ca",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/resources.resource",
+                      "size":  185696
+                  },
+                  {
+                      "path":  "RustClient_Data/sharedassets0.assets",
+                      "md5":  "63977744a853f398c47a836d7a51c2c4",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/sharedassets0.assets",
+                      "size":  140579872
+                  },
+                  {
+                      "path":  "RustClient_Data/sharedassets1.assets",
+                      "md5":  "da93e78a14efa35583eee06fef0ed347",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/sharedassets1.assets",
+                      "size":  4120
+                  },
+                  {
+                      "path":  "RustClient_Data/sharedassets2.assets",
+                      "md5":  "de04b98ff69515198764c1ed0a8c00a2",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/sharedassets2.assets",
+                      "size":  55295304
+                  },
+                  {
+                      "path":  "RustClient_Data/sharedassets2.resource",
+                      "md5":  "df5c396dc3887fa8fd6a558727a2443f",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/sharedassets2.resource",
+                      "size":  39189536
+                  },
+                  {
+                      "path":  "RustClient_Data/sharedassets3.assets",
+                      "md5":  "8e6487ef4933c80c9241f5a97fc713cf",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/sharedassets3.assets",
+                      "size":  63607268
+                  },
+                  {
+                      "path":  "RustClient_Data/sharedassets4.assets",
+                      "md5":  "7c34de977363288e0207d0fedcef4898",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/sharedassets4.assets",
+                      "size":  9240364
+                  },
+                  {
+                      "path":  "RustClient_Data/sharedassets4.resource",
+                      "md5":  "1da92bc150d598a805e888339dd07164",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/sharedassets4.resource",
+                      "size":  3312800
+                  },
+                  {
+                      "path":  "RustClient_Data/sharedassets5.assets",
+                      "md5":  "91f25b52179bd36e855fda8bbf487313",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/sharedassets5.assets",
+                      "size":  355092
+                  },
+                  {
+                      "path":  "RustClient_Data/sharedassets5.resource",
+                      "md5":  "841d592f8bb0e5a718615d1bae9a69a3",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/sharedassets5.resource",
+                      "size":  4014880
+                  },
+                  {
+                      "path":  "RustClient_Data/sharedassets6.assets",
+                      "md5":  "fd6d3ac099a78c3216e3f599abd8393c",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/sharedassets6.assets",
+                      "size":  67332
+                  },
+                  {
+                      "path":  "RustClient_Data/sharedassets6.resource",
+                      "md5":  "09a95253892d3dc3c63b01d688e27afe",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/sharedassets6.resource",
+                      "size":  10427488
+                  },
+                  {
+                      "path":  "RustClient_Data/sharedassets7.assets",
+                      "md5":  "0627b9511a19edce274d569e5590d6f7",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/sharedassets7.assets",
+                      "size":  484767284
+                  },
+                  {
+                      "path":  "RustClient_Data/sharedassets8.assets",
+                      "md5":  "7a59e7a4f9619d2249da353aa9ab2267",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/sharedassets8.assets",
+                      "size":  307894292
+                  },
+                  {
+                      "path":  "RustClient_Data/sharedassets8.resource",
+                      "md5":  "a081d539a239cb9199e2eee27a91b6bf",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/sharedassets8.resource",
+                      "size":  891648
+                  }
+              ]
 }
