@@ -14,7 +14,7 @@
     "minimize_after_launch":  true,
     "launcher_version": "1.0.0",
     "launcher_url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/EclipseRustLauncher.exe",
-    "launcher_md5": "6153c615afffd6c67a9d2799a00f1725",
+    "launcher_md5": "3a0ca050f8740932e3fb0830cb3f42db",
     "files":  [
                   {
                       "path":  "RustClient_Data/Managed/Accessibility.dll",
