@@ -2,7 +2,7 @@
   "server_ip": "46.174.50.175",
   "server_port": "20600",
   "monitoring_url": "https://eclipseshop.gamestores.app/api/v1/widgets.monitoring",
-  "manifest_url": "https://github.com/ayashii99/EclipseLauncher/blob/main/manifest.json",
+  "manifest_url": "https://raw.githubusercontent.com/ayashii99/EclipseLauncher/refs/heads/main/manifest.json",
   "discord_link": "https://discord.gg/PsXW8Uucvx",
   "telegram_link": "https://t.me/eclipserust59",
   "vk_link": "https://vk.com/eclipserust59",
