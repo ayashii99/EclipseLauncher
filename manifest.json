@@ -14,7 +14,7 @@
     "minimize_after_launch":  true,
     "launcher_version": "1.0.0",
     "launcher_url": "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/EclipseRustLauncher.exe",
-    "launcher_md5": "3a0ca050f8740932e3fb0830cb3f42db",
+    "launcher_md5": "fe7d807615309442994439082dccf34c",
     "files":  [
                   {
                       "path":  "RustClient_Data/Managed/Accessibility.dll",
@@ -30,7 +30,7 @@
                   },
                   {
                       "path":  "RustClient_Data/Managed/Assembly-CSharp.dll",
-                      "md5":  "a222912a25aaebadd0673820419715a5",
+                      "md5":  "f6c564735adaa16ae8cde53bdc0ff7ad",
                       "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/Assembly-CSharp.dll",
                       "size":  1363968
                   },
@@ -258,7 +258,7 @@
                   },
                   {
                       "path":  "RustClient_Data/Managed/UnityEngine.dll",
-                      "md5":  "41d74391c8780e1d319c26e4bff3dd4d",
+                      "md5":  "4430cbb93522b9dfb9c34790b7572545",
                       "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/UnityEngine.dll",
                       "size":  691936
                   },
