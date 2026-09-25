@@ -23,6 +23,18 @@
                       "size":  17120
                   },
                   {
+                      "path":  "RustClient.dll",
+                      "md5":  "3322d727e5a2fe5a8d453b97cd4fc15c",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/RustClient.dll",
+                      "size":  18829536
+                  },
+                  {
+                      "path":  "RustClient.exe",
+                      "md5":  "6f8b0859ef06e705fcc65b6315903e5b",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/RustClient.exe",
+                      "size":  6538768
+                  },
+                  {
                       "path":  "RustClient_Data/Managed/Assembly-CSharp-firstpass.dll",
                       "md5":  "7d525ae3cb55139fcacc34cf3b392a1e",
                       "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/Assembly-CSharp-firstpass.dll",
