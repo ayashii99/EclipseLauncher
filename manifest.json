@@ -30,9 +30,15 @@
                   },
                   {
                       "path":  "RustClient_Data/Managed/Assembly-CSharp.dll",
-                      "md5":  "f6c564735adaa16ae8cde53bdc0ff7ad",
+                      "md5":  "ac0e030f76350aa25ba2af3779110713",
                       "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/Assembly-CSharp.dll",
                       "size":  1363968
+                  },
+                  {
+                      "path":  "RustClient_Data/Managed/ECData.dll",
+                      "md5":  "72ce0ccaac88a57638c2d8f42155c65d",
+                      "url":  "https://github.com/ayashii99/EclipseLauncher/raw/refs/heads/main/ECData.dll",
+                      "size":  760320
                   },
                   {
                       "path":  "RustClient_Data/Managed/Behave.Unity.Runtime.dll",
